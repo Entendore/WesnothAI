@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=27346",
+    "name": "wesnoth program command-line arguments",
+    "snippet": "There are additional options that can be used as explained below: --ai_config<number>=value selects a configuration file to load for this side.",
+    "host_name": "forums.wesnoth.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://man.archlinux.org/man/wesnoth.6.et",
+    "name": "wesnoth(6) - Arch manual pages",
+    "snippet": "Battle for Wesnoth is a turn-based fantasy strategy game. Defeat all enemy leaders using a well-chosen cadre of troops, taking care to manage your resources of ...",
+    "host_name": "man.archlinux.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/3936",
+    "name": "Unclear command line options · Issue #3936 · wesnoth  - GitHub",
+    "snippet": "I couldn't see anything ingame… but I remember some screenshot from 1.13. --debug-lua enables some Lua debugging mechanisms",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aosabook.org/en/v1/wesnoth.html",
+    "name": "The Architecture of Open Source Applications (Volume 1)Battle for",
+    "snippet": "The second part will focus on Wesnoth's unique data storage language, known as Wesnoth Markup Language (WML). It will explain the specific functions of WML, ...",
+    "host_name": "aosabook.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=1378479923",
+    "name": "Communauté Steam :: Guide :: Commands for Battle for Wesnoth!",
+    "snippet": "First of all, we need to access to the command mode, you need to click Shift + : . Then we see an area at the bottom of the screen where we can enter the ...",
+    "host_name": "steamcommunity.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Nsfuj8hFrVU",
+    "name": "Making a Game in Lua with No Experience - YouTube",
+    "snippet": "... video games\". #Gamedev #Programming #lua #love2d.\nTo try everything Brilliant has to offer—free—for a full 30 days, visit http://brilliant.org/Goodgis/ The first 200 of you will get 20% off ...",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.defold.com/ref/render-lua",
+    "name": "API reference (Render) - Defold",
+    "snippet": "Defold is a free, cross-platform game engine for building 2D and 3D games for desktop, web, mobile, and consoles.",
+    "host_name": "www.defold.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://wiki.wesnoth.org/Easycoding",
+    "name": "EasyCoding - The Battle for Wesnoth Wiki",
+    "snippet": "This page is here to document easy to do coding tasks. It is not here to double the feature request database, and should only be filled by people that know the ...",
+    "host_name": "wiki.wesnoth.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@khalidtahsinjahin/battle-for-wesnoth-add-on-content-creation-part-iii-campaign-design-guide-chapter-i-1a83f93ec719",
+    "name": "Battle for Wesnoth Add-on Content Creation Part III: Campaign",
+    "snippet": "This design guide has been split to five chapters with each covering a particular chapter of the 5-step procedure.",
+    "host_name": "medium.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-2sL7asprEc",
+    "name": "Lua Modules, Animation Editor & JRPG Combat - YouTube",
+    "snippet": "Building a custom C++ game engine from scratch! In this Scion2D development log, I add Lua module support, a brand new animation editor, ...",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

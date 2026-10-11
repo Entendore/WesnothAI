@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/7747",
+    "name": "--screenshot doesn't work · Issue #7747 · wesnoth/wesnoth - GitHub",
+    "snippet": "Code · Issues · Pull requests · Actions · Projects · Security · Insights. --screenshot doesn't work #7747. New issue. Copy link. New issue. Copy link. Closed.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/10823",
+    "name": "--nogui should probably select SDL dummy video driver · Issue",
+    "snippet": "Description of the bug. wesnoth in Debian has an automated test which installs the wesnoth ... --screenshot or --plugin flags\";. return false ... Do not init SDL ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/2392",
+    "name": "cmake flag to prevent installation of game assets #2392 - GitHub",
+    "snippet": "I am building only the wesnoth daemon for installation on a headless server. I am using the cmake-flag \"-DENABLE_GAME=OFF\" to achieve this.",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/7837",
+    "name": "Sync man page and --help output · Issue #7837 · wesnoth/wesnoth",
+    "snippet": "--render-image arg takes two arguments: <image> ... --rng-seed arg seeds the random number generator with number <arg>. Example: --rng-seed 0 --screenshot arg ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://raw.github.com/wesnoth/wesnoth/1.13.11/changelog",
+    "name": "https://raw.github.com/wesnoth/wesnoth/1.13.11/cha",
+    "snippet": "* Added \"--render-image\" command-line argument, similar to --screenshot, but instead of a map, it takes a wesnoth imagepath and generates at bitmap with the ...",
+    "host_name": "raw.github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=37698",
+    "name": "screenshots for 1.10 or 1.11 - The Battle for Wesnoth Forums",
+    "snippet": "Please find attached a screenshot from 1.11 showing the new Planning Mode feature, heretofore not shown on the screenshots page.",
+    "host_name": "forums.wesnoth.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forums.raspberrypi.com/viewtopic.php?t=30030",
+    "name": "Battle for wesnoth - Raspberry Pi Forums",
+    "snippet": "All this rendering should have been done in the \"not visible\" buffer, which should have been made visible once the image is completely rendered.",
+    "host_name": "forums.raspberrypi.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GoLiv6Wh3WY",
+    "name": "The Battle for Wesnoth: Let's read the code! - YouTube",
+    "snippet": "Useful links: - site: https://www.wesnoth.org/ - repo: https://github.com/wesnoth ... Your browser can't play this video. Learn more.",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u89f2q/headless_screenshot_loops_let_a_local_30b_agent",
+    "name": "Headless screenshot loops let a local 30B agent finish a raytraced",
+    "snippet": "I had Claude Code on Opus 4.8 and a local Qwen3.6 27B agent both write a small raytraced FPS demo in C, standard library only. Yes, C raytracers ...",
+    "host_name": "www.reddit.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.threejs.org/t/headless-rendering-functional-how-to-take-screenshot/31700",
+    "name": "Headless rendering functional, how to take screenshot? - Questions",
+    "snippet": "I'm headlessly rendering a scene with Threejs + node and am currently taking screenshots via a command line program that opens a browser, loads ...",
+    "host_name": "discourse.threejs.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

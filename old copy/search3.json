@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=48894",
+    "name": "Lua & WML, when to use what? - The Battle for Wesnoth Forums",
+    "snippet": "WML is the original, homegrown markup-language-turned-scripting-language that Wesnoth uses. you can define your own action and conditional WML ...\nWML is the original, homegrown markup-language-turned-scripting-language that Wesnoth uses. Lua support was added later in (IIRC) 1.7, and in many ways they ...",
+    "host_name": "forums.wesnoth.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nfaE7NQhMlc",
+    "name": "Creating WoW AddOns - Episode 1 - Getting Started - YouTube",
+    "snippet": "This is my first video in a series which teaches you to write your own World of Warcraft AddOns using Lua programming and some XML.",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/wowaddondev/comments/1cc2pia/creating_a_wow_addon_part_1_a_fresh_start",
+    "name": "Creating a WoW Addon - Part 1: A Fresh Start - Reddit",
+    "snippet": "This small series will show you how to build an addon from scratch. We won't be using any libraries to begin with.",
+    "host_name": "www.reddit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://us.forums.blizzard.com/en/wow/t/new-to-addon-development-and-looking-for-updated-resources/163066",
+    "name": "New to Addon Development and Looking for UPDATED Resources",
+    "snippet": "Anyone know of any guides that walk you through how to create a modern WoW Addon Window and then start to interact with the API and saved data.",
+    "host_name": "us.forums.blizzard.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@khalidtahsinjahin/battle-for-wesnoth-add-on-content-creation-part-iii-campaign-design-guide-chapter-i-1a83f93ec719",
+    "name": "Battle for Wesnoth Add-on Content Creation Part III: Campaign",
+    "snippet": "This design guide has been split to five chapters with each covering a particular chapter of the 5-step procedure.",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://addons.wesnoth.org/1.16",
+    "name": "Wesnoth 1.16 Add-ons List",
+    "snippet": "Wesnoth Lua Pack The idea behind the WLP is to collect bits of Lua written by various people that will help supplement the helper library and WML. Feel free to ...",
+    "host_name": "addons.wesnoth.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-NbjQdHldew",
+    "name": "1 How to Develop World of Warcraft Addons - Hello, World! - YouTube",
+    "snippet": "free content: https://www.patreon.com/PaulHalliday Check out more free tutorials at https://developer.school Developer School Mailing List ...",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/5369745/how-do-i-make-a-world-of-warcraft-addon",
+    "name": "How do I make a World of Warcraft addon? - Stack Overflow",
+    "snippet": "Addons for the game are created, most simply, by making a new folder in the Interface/AddOns directory in your game folder and populating this with the core ...",
+    "host_name": "stackoverflow.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aosabook.org/en/v1/wesnoth.html",
+    "name": "The Architecture of Open Source Applications (Volume 1)Battle for",
+    "snippet": "The second part will focus on Wesnoth's unique data storage language, known as Wesnoth Markup Language (WML). It will explain the specific functions of WML ...",
+    "host_name": "aosabook.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/tbondois/Advance_Wesnoth_Wars",
+    "name": "mod for \"Battle for Wesnoth\" open-source game · GitHub",
+    "snippet": "A collection of the most-requested options to make the mechanics more realistic and tactic, for people curious to experiment a new gameplay.",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
