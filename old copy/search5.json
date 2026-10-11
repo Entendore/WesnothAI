@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=49218",
+    "name": "Finding add-on data in files - The Battle for Wesnoth Forums",
+    "snippet": "Just search your entire home directory for a file called _main.cfg (with the underscore). The file will be under your home directory, not in the same data ...",
+    "host_name": "forums.wesnoth.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/blob/master/data/lua/wml/endlevel.lua",
+    "name": "wesnoth/data/lua/wml/endlevel.lua at master - GitHub",
+    "snippet": "An open source, turn-based strategy game with a high fantasy theme. cfg wesnoth.scenario.end_level_data … save = cfg.save, replay_save = cfg.replay_save,",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://wiki.wesnoth.org/SavefileWML",
+    "name": "SavefileWML - The Battle for Wesnoth Wiki",
+    "snippet": "The format for Wesnoth savegames. A Wesnoth savegame is a file stored in ~saves/ (See \"user data directory\", PreprocessorRef).",
+    "host_name": "wiki.wesnoth.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aosabook.org/en/v1/wesnoth.html",
+    "name": "The Architecture of Open Source Applications (Volume 1)Battle for",
+    "snippet": "All Wesnoth game data is stored in WML, including unit definitions, campaigns, scenarios, GUI definitions, and other game logic configuration.",
+    "host_name": "aosabook.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/sw8zu6/if_you_forget_to_save_a_battle_replay_is_there_a",
+    "name": "r/totalwar on Reddit: If you forget to save a battle replay. Is there a",
+    "snippet": "I need help. The type of file is \"File\" while all the other replays are \"REPLAY File\" How do I change it?",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/wesnoth/files",
+    "name": "Battle for Wesnoth - Browse Files at SourceForge.net",
+    "snippet": "The Extended Era is an multiplayer expansion addon for the game \"Battle for Wesnoth\". It features additionnal playable faction, units and levelups.",
+    "host_name": "sourceforge.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sMQJVFRYjU0",
+    "name": "The Battle for Wesnoth Editor 1.8 - Trying to Make a New Unit",
+    "snippet": "Share your videos with friends, family, and the world.",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@khalidtahsinjahin/battle-for-wesnoth-add-on-content-creation-part-i-how-to-make-your-own-mp-scenario-c7a887d4db54",
+    "name": "Battle for Wesnoth Add-on Content Creation Part I: How to Make",
+    "snippet": "This is a step-by-step guide on how to make the simplest of add-on content: a simple 1v1 multiplayer scenario.",
+    "host_name": "medium.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=1378479923",
+    "name": "Communauté Steam :: Guide :: Commands for Battle for Wesnoth!",
+    "snippet": "First of all, we need to access to the command mode, you need to click Shift + : . Then we see an area at the bottom of the screen where we can enter the ...",
+    "host_name": "steamcommunity.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.pcgamingwiki.com/wiki/The_Battle_for_Wesnoth",
+    "name": "The Battle for Wesnoth - PCGamingWiki",
+    "snippet": "The Battle for Wesnoth is a singleplayer and multiplayer bird's-eye view TBS game. ... Save game data location. System, Location. Windows, % ...",
+    "host_name": "www.pcgamingwiki.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

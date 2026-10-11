@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=27346",
+    "name": "wesnoth program command-line arguments",
+    "snippet": "--screenshot <map> <output> Saves a screenshot of <map> to <output> without initializing a screen. Editor must be compiled in for this to work.",
+    "host_name": "forums.wesnoth.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.threejs.org/t/headless-rendering-functional-how-to-take-screenshot/31700",
+    "name": "Headless rendering functional, how to take screenshot? - Questions",
+    "snippet": "I'm headlessly rendering a scene with Threejs + node and am currently taking screenshots via a command line program that opens a browser, loads",
+    "host_name": "discourse.threejs.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/48152443/cant-take-screenshot-in-command-line-with-chrome",
+    "name": "Can't take screenshot in command line with Chrome - Stack Overflow",
+    "snippet": "This creates a problem for ChromeDriver's GetScreenshot() since it will use a very low resolution for taking the screenshot. I was hoping that a ...",
+    "host_name": "stackoverflow.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forums.raspberrypi.com/viewtopic.php?t=30030",
+    "name": "Battle for wesnoth - Raspberry Pi Forums",
+    "snippet": "Battle for Wesnoth uses SDL, so you can just start it from command line without X … start wesnoth you have to pass the resolution and that is ...",
+    "host_name": "forums.raspberrypi.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ExploitDev/comments/18qzi6w/i_want_to_run_chrome_headless_for_serverside",
+    "name": "I want to run Chrome headless for serverside screenshots of  - Reddit",
+    "snippet": "Call Chrome headless on the html file and write out screenshot of its output. Monitor this process and give it 10 seconds per user shiftybyte",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GoLiv6Wh3WY",
+    "name": "The Battle for Wesnoth: Let's read the code! - YouTube",
+    "snippet": "Useful links: - site: https://www.wesnoth.org/ - repo: https://github.com/wesnoth ... Your browser can't play this video. Learn more.",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://manpages.opensuse.org/Tumbleweed/wesnoth/wesnoth.6.en.html",
+    "name": "wesnoth(6) - openSUSE Manpages Server",
+    "snippet": "--fps displays the number of frames per second --render-image image output takes a valid wesnoth 'image path string' with image path functions, ...",
+    "host_name": "manpages.opensuse.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://askubuntu.com/questions/75058/how-can-i-take-a-full-page-screenshot-of-a-webpage-from-the-command-line",
+    "name": "How can I take a full page screenshot of a webpage  - Ask Ubuntu",
+    "snippet": "Cutycapt is a utility to take the screenshot of a url, using the webkit rendering engine and save it to an image file.",
+    "host_name": "askubuntu.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gamedev.stackexchange.com/questions/141320/run-unity-standalone-in-headless-mode-whilst-capturing-screenshots",
+    "name": "Run Unity standalone in Headless Mode whilst capturing screenshots",
+    "snippet": "I need to create a unity project which runs in Headless mode (using the -batchmode command), but it must capture screenshots e.g. every one ...",
+    "host_name": "gamedev.stackexchange.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1378479923",
+    "name": "Guide :: Commands for Battle for Wesnoth! - Steam Community",
+    "snippet": "First of all, we need to access to the command mode, you need to click Shift + : . Then we see an area at the bottom of the screen where we ...",
+    "host_name": "steamcommunity.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

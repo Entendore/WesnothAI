@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=27346",
+    "name": "wesnoth program command-line arguments",
+    "snippet": "--screenshot <map> <output> Saves a screenshot of <map> to <output> without initializing a screen. Editor must be compiled in for this to work.",
+    "host_name": "forums.wesnoth.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/7108256/headless-node-js-javascript-browser-with-screenshot-capability",
+    "name": "Headless node.js javascript browser with screenshot capability?",
+    "snippet": "Are there any headless browsers for node.js that support dumping a rendered page out to a file? I know phantomjs supports rendering to a file, ...",
+    "host_name": "stackoverflow.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.nodered.org/t/screenshot-of-dashboard-headless-mode/17738",
+    "name": "Screenshot of Dashboard headless mode - Node-RED Forum",
+    "snippet": "Hi guy, I am trying to take a screenshot in headless mode of the dashboard but till now I had no success. I can take screenshots of webpages ...",
+    "host_name": "discourse.nodered.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/wesnoth/comments/4o416d/is_there_any_way_to_convert_a_wesnoth_map_to_an",
+    "name": "Is There Any Way To Convert A Wesnoth Map To An Image File?",
+    "snippet": "You can use --screenshot option from the command line: wesnoth --screenshot /path/to/file.map output-image.bmp. This will screenshot the entire ...",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://connect.mozilla.org/t5/ideas/delay-screenshot-when-using-headless-mode-command-line/idi-p/14833",
+    "name": "Delay screenshot when using headless mode (command line)",
+    "snippet": "I'm trying to write a script that would have firefox take a screenshot from the command line, in headless mode. Only issue is that the site I'm trying to ...",
+    "host_name": "connect.mozilla.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.threejs.org/t/headless-rendering-functional-how-to-take-screenshot/31700",
+    "name": "Headless rendering functional, how to take screenshot? - Questions",
+    "snippet": "I'm headlessly rendering a scene with Threejs + node and am currently taking screenshots via a command line program that opens a browser, loads\nI'm headlessly rendering a scene with Threejs + node and am currently taking screenshots via a command line program that opens a browser, loads the pre- ...",
+    "host_name": "discourse.threejs.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discussions.unity.com/t/screenshots-in-headless-mode/885020",
+    "name": "Screenshots in headless mode? - Unity Discussions",
+    "snippet": "Hey, I'm wondering, does anyone have ideas for rendering screenshots in headless mode? The goal is to output the screenshot as a byte array.",
+    "host_name": "discussions.unity.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://serverfault.com/questions/1162955/take-screenshot-of-rendered-html-from-linux-without-gui",
+    "name": "Take screenshot of rendered HTML from Linux without GUI",
+    "snippet": "You don't need a GUI to screenshot rendered HTML on a Rocky Linux box. Three practical approaches: Headless Chrome/Chromium (local, simple & ...",
+    "host_name": "serverfault.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/users/features/headless",
+    "name": "Headless Mode | Qwen Code Docs",
+    "snippet": "Headless mode allows you to run Qwen Code programmatically from command line scripts and automation tools without any interactive UI.",
+    "host_name": "qwenlm.github.io",
+    "rank": 8,
+    "date": "Jun 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://man.archlinux.org/man/wesnoth.6.et",
+    "name": "wesnoth(6) - Arch manual pages",
+    "snippet": "Battle for Wesnoth is a turn-based fantasy strategy game. Defeat all enemy leaders using a well-chosen cadre of troops, taking care to manage your resources of ...",
+    "host_name": "man.archlinux.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

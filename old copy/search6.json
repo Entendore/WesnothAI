@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/wesnoth/wesnoth",
+    "name": "wesnoth/wesnoth: An open source, turn-based strategy game with a",
+    "snippet": "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat ...",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GoLiv6Wh3WY",
+    "name": "The Battle for Wesnoth: Let's read the code! - YouTube",
+    "snippet": "Useful links: - site: https://www.wesnoth.org/ - repo: https://github.com/wesnoth/wesnoth Special thanks to my Patreon patrons: - Frederick ...",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/blob/master/src/minimap.cpp",
+    "name": "wesnoth/src/minimap.cpp at master - GitHub",
+    "snippet": "An open source, turn-based strategy game with a high fantasy theme. - wesnoth/src/minimap.cpp at master · wesnoth/wesnoth.",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/issues/3936",
+    "name": "Unclear command line options · Issue #3936 · wesnoth  - GitHub",
+    "snippet": "Adds the option to show a clock for testing the drawing timer. \"Adds the Option\" would mean that this is an Switch which adds an Option… if so, ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forums.wesnoth.org/viewtopic.php?t=27346",
+    "name": "wesnoth program command-line arguments",
+    "snippet": "--screenshot <map> <output> Saves a screenshot of <map> to <output> without initializing a screen. Editor must be compiled in for this to work.",
+    "host_name": "forums.wesnoth.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/resources",
+    "name": "GitHub - wesnoth/resources",
+    "snippet": "Repository containing higher-resolution assets and other content not distributed with the game. - wesnoth/resources.",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth/wesnoth/blob/master/INSTALL.md",
+    "name": "wesnoth/INSTALL.md at master - GitHub",
+    "snippet": "Wesnoth requires a compiler with sufficient C++17 support such as GCC 11 and later, or a version of Clang with equivalent support.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/jonan/heroes-of-wesnoth/blob/master/events.cpp",
+    "name": "heroes-of-wesnoth/events.cpp at master - GitHub",
+    "snippet": "Heroes of Wesnoth is a free, turn-based strategy game where you have to guide a hero through a fantasy world. - heroes-of-wesnoth/events.cpp at master ...",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/wesnoth",
+    "name": "Battle for Wesnoth - GitHub",
+    "snippet": "This is a dashboard that allows you to query and visualize data that the Wesnoth Project collects about multiplayer games played on the official server.",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discourse.threejs.org/t/headless-rendering-functional-how-to-take-screenshot/31700",
+    "name": "Headless rendering functional, how to take screenshot? - Questions",
+    "snippet": "I'm headlessly rendering a scene with Threejs + node and am currently taking screenshots via a command line program that opens a browser, loads ...",
+    "host_name": "discourse.threejs.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
